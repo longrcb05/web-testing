@@ -53,6 +53,6 @@ Dự án tuân thủ nghiêm ngặt mô hình **Page Object Model (POM)** kết 
             ├── MyInfoTest.java
             ├── FullMenuTest.java
             └── UserMenuTest.java
-📄 License
+##📄 License
 Dự án được phát triển cho mục đích học tập tại CMU - IS 432 MIS.
 Phát triển bởi Nhóm 7
